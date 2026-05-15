@@ -1,0 +1,22 @@
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Build/output folders
+out/
+build/
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
